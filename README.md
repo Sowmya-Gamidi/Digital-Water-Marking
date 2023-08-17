@@ -1,4 +1,4 @@
-# Digital-Water-Marking
+# Digital-Water-Marking Requirements
 absl-py==0.13.0
 argon2-cffi==20.1.0
 astunparse==1.6.3
